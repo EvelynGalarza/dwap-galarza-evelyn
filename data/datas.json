@@ -1,0 +1,17 @@
+[
+    {
+        "img":"/imagenes/vol4.png",
+        "p":19.95,
+        "nombre":"JJK VOLUMEN 4"
+    },
+    {
+        "img":"/imagenes/vol14.jpg",
+        "p":"14.78",
+        "nombre":"JJK VOLUMEN 14"
+    },
+    {
+        "img":"/imagenes/vol8.png",
+        "p":"39.99",
+        "nombre":"JJK VOLUMEN 8"
+    }
+]
